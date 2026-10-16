@@ -1,0 +1,1 @@
+CDSfold $FASTA_DIR/SPIKE_SARS2.fasta

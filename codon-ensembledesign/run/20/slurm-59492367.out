@@ -1,0 +1,143 @@
+1 input sequences.
+10 runs for each sequence.
+Total 10 runs started.
+Exception in thread Thread-2 (worker):
+Traceback (most recent call last):
+  File "/global/common/software/nersc/pe/conda-envs/26.8.1/python-3.13/nersc-python/lib/python3.13/threading.py", line 1044, in _bootstrap_inner
+    self.run()
+    ~~~~~~~~^^
+  File "/global/common/software/nersc/pe/conda-envs/26.8.1/python-3.13/nersc-python/lib/python3.13/threading.py", line 995, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/u1/m/mfornace/codon-comparisons/EnsembleDesign/EnsembleDesign.py", line 84, in worker
+    execute_mrna_design(*task, progress_tracker=progress_tracker, lock=lock)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/u1/m/mfornace/codon-comparisons/EnsembleDesign/EnsembleDesign.py", line 65, in execute_mrna_design
+    mfe_solutoin = get_mfe_solutoin(protein)
+  File "/global/u1/m/mfornace/codon-comparisons/EnsembleDesign/EnsembleDesign.py", line 47, in get_mfe_solutoin
+    return mfe_solution.split("\n")[-3].strip().split(" ")[-1]
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^
+IndexError: list index out of range
+Exception in thread Thread-9 (worker):
+Traceback (most recent call last):
+  File "/global/common/software/nersc/pe/conda-envs/26.8.1/python-3.13/nersc-python/lib/python3.13/threading.py", line 1044, in _bootstrap_inner
+    self.run()
+    ~~~~~~~~^^
+  File "/global/common/software/nersc/pe/conda-envs/26.8.1/python-3.13/nersc-python/lib/python3.13/threading.py", line 995, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/u1/m/mfornace/codon-comparisons/EnsembleDesign/EnsembleDesign.py", line 84, in worker
+    execute_mrna_design(*task, progress_tracker=progress_tracker, lock=lock)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/u1/m/mfornace/codon-comparisons/EnsembleDesign/EnsembleDesign.py", line 65, in execute_mrna_design
+    mfe_solutoin = get_mfe_solutoin(protein)
+  File "/global/u1/m/mfornace/codon-comparisons/EnsembleDesign/EnsembleDesign.py", line 47, in get_mfe_solutoin
+    return mfe_solution.split("\n")[-3].strip().split(" ")[-1]
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^
+IndexError: list index out of range
+Exception in thread Thread-1 (worker):
+Traceback (most recent call last):
+  File "/global/common/software/nersc/pe/conda-envs/26.8.1/python-3.13/nersc-python/lib/python3.13/threading.py", line 1044, in _bootstrap_inner
+    self.run()
+    ~~~~~~~~^^
+  File "/global/common/software/nersc/pe/conda-envs/26.8.1/python-3.13/nersc-python/lib/python3.13/threading.py", line 995, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/u1/m/mfornace/codon-comparisons/EnsembleDesign/EnsembleDesign.py", line 84, in worker
+    execute_mrna_design(*task, progress_tracker=progress_tracker, lock=lock)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/u1/m/mfornace/codon-comparisons/EnsembleDesign/EnsembleDesign.py", line 65, in execute_mrna_design
+    mfe_solutoin = get_mfe_solutoin(protein)
+  File "/global/u1/m/mfornace/codon-comparisons/EnsembleDesign/EnsembleDesign.py", line 47, in get_mfe_solutoin
+    return mfe_solution.split("\n")[-3].strip().split(" ")[-1]
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^
+IndexError: list index out of range
+Exception in thread Thread-6 (worker):
+Traceback (most recent call last):
+  File "/global/common/software/nersc/pe/conda-envs/26.8.1/python-3.13/nersc-python/lib/python3.13/threading.py", line 1044, in _bootstrap_inner
+    self.run()
+    ~~~~~~~~^^
+  File "/global/common/software/nersc/pe/conda-envs/26.8.1/python-3.13/nersc-python/lib/python3.13/threading.py", line 995, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/u1/m/mfornace/codon-comparisons/EnsembleDesign/EnsembleDesign.py", line 84, in worker
+    execute_mrna_design(*task, progress_tracker=progress_tracker, lock=lock)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/u1/m/mfornace/codon-comparisons/EnsembleDesign/EnsembleDesign.py", line 65, in execute_mrna_design
+    mfe_solutoin = get_mfe_solutoin(protein)
+  File "/global/u1/m/mfornace/codon-comparisons/EnsembleDesign/EnsembleDesign.py", line 47, in get_mfe_solutoin
+    return mfe_solution.split("\n")[-3].strip().split(" ")[-1]
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^
+IndexError: list index out of range
+Exception in thread Thread-3 (worker):
+Traceback (most recent call last):
+  File "/global/common/software/nersc/pe/conda-envs/26.8.1/python-3.13/nersc-python/lib/python3.13/threading.py", line 1044, in _bootstrap_inner
+    self.run()
+    ~~~~~~~~^^
+  File "/global/common/software/nersc/pe/conda-envs/26.8.1/python-3.13/nersc-python/lib/python3.13/threading.py", line 995, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/u1/m/mfornace/codon-comparisons/EnsembleDesign/EnsembleDesign.py", line 84, in worker
+    execute_mrna_design(*task, progress_tracker=progress_tracker, lock=lock)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/u1/m/mfornace/codon-comparisons/EnsembleDesign/EnsembleDesign.py", line 65, in execute_mrna_design
+    mfe_solutoin = get_mfe_solutoin(protein)
+  File "/global/u1/m/mfornace/codon-comparisons/EnsembleDesign/EnsembleDesign.py", line 47, in get_mfe_solutoin
+    return mfe_solution.split("\n")[-3].strip().split(" ")[-1]
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^
+IndexError: list index out of range
+Exception in thread Thread-7 (worker):
+Traceback (most recent call last):
+  File "/global/common/software/nersc/pe/conda-envs/26.8.1/python-3.13/nersc-python/lib/python3.13/threading.py", line 1044, in _bootstrap_inner
+    self.run()
+    ~~~~~~~~^^
+  File "/global/common/software/nersc/pe/conda-envs/26.8.1/python-3.13/nersc-python/lib/python3.13/threading.py", line 995, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/u1/m/mfornace/codon-comparisons/EnsembleDesign/EnsembleDesign.py", line 84, in worker
+    execute_mrna_design(*task, progress_tracker=progress_tracker, lock=lock)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/u1/m/mfornace/codon-comparisons/EnsembleDesign/EnsembleDesign.py", line 65, in execute_mrna_design
+    mfe_solutoin = get_mfe_solutoin(protein)
+  File "/global/u1/m/mfornace/codon-comparisons/EnsembleDesign/EnsembleDesign.py", line 47, in get_mfe_solutoin
+    return mfe_solution.split("\n")[-3].strip().split(" ")[-1]
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^
+IndexError: list index out of range
+Exception in thread Thread-5 (worker):
+Traceback (most recent call last):
+  File "/global/common/software/nersc/pe/conda-envs/26.8.1/python-3.13/nersc-python/lib/python3.13/threading.py", line 1044, in _bootstrap_inner
+    self.run()
+    ~~~~~~~~^^
+  File "/global/common/software/nersc/pe/conda-envs/26.8.1/python-3.13/nersc-python/lib/python3.13/threading.py", line 995, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/u1/m/mfornace/codon-comparisons/EnsembleDesign/EnsembleDesign.py", line 84, in worker
+    execute_mrna_design(*task, progress_tracker=progress_tracker, lock=lock)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/u1/m/mfornace/codon-comparisons/EnsembleDesign/EnsembleDesign.py", line 65, in execute_mrna_design
+    mfe_solutoin = get_mfe_solutoin(protein)
+  File "/global/u1/m/mfornace/codon-comparisons/EnsembleDesign/EnsembleDesign.py", line 47, in get_mfe_solutoin
+    return mfe_solution.split("\n")[-3].strip().split(" ")[-1]
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^
+IndexError: list index out of range
+Exception in thread Thread-8 (worker):
+Traceback (most recent call last):
+  File "/global/common/software/nersc/pe/conda-envs/26.8.1/python-3.13/nersc-python/lib/python3.13/threading.py", line 1044, in _bootstrap_inner
+    self.run()
+    ~~~~~~~~^^
+  File "/global/common/software/nersc/pe/conda-envs/26.8.1/python-3.13/nersc-python/lib/python3.13/threading.py", line 995, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/u1/m/mfornace/codon-comparisons/EnsembleDesign/EnsembleDesign.py", line 84, in worker
+    execute_mrna_design(*task, progress_tracker=progress_tracker, lock=lock)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/u1/m/mfornace/codon-comparisons/EnsembleDesign/EnsembleDesign.py", line 65, in execute_mrna_design
+    mfe_solutoin = get_mfe_solutoin(protein)
+  File "/global/u1/m/mfornace/codon-comparisons/EnsembleDesign/EnsembleDesign.py", line 47, in get_mfe_solutoin
+    return mfe_solution.split("\n")[-3].strip().split(" ")[-1]
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^
+IndexError: list index out of range
+Completed: 1 runs
+Completed: 2 runs
+[2026-10-10T20:43:51.037] error: *** JOB 59492367 ON nid005057 CANCELLED AT 2026-10-10T20:43:51 DUE TO TIME LIMIT ***
+[2026-10-10T20:43:51.054] error: Detected 8 oom_kill events in StepId=59492367.batch. Some of the step tasks have been OOM Killed.

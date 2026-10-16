@@ -1,0 +1,10 @@
+Iteration [ 1]: obj: -8490.3771
+Iteration [ 2]: obj: -8716.7234
+Iteration [ 3]: obj: -8946.2808
+Iteration [ 4]: obj: -9173.2378
+Iteration [ 5]: obj: -9392.7878
+Iteration [ 6]: obj: -9602.0859
+Iteration [ 7]: obj: -9797.9470
+Iteration [ 8]: obj: -9977.1724
+Iteration [ 9]: obj: -10129.8073
+Iteration [10]: obj: -10231.6887

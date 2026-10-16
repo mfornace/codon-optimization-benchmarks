@@ -1,0 +1,29 @@
+1 input sequences.
+10 runs for each sequence.
+Total 10 runs started.
+Completed: 1 runs
+Completed: 2 runs
+Completed: 3 runs
+Completed: 4 runs
+Completed: 5 runs
+Completed: 6 runs
+Completed: 7 runs
+Completed: 8 runs
+Completed: 9 runs
+Completed: 10 runs
+All 10 runs completed.
+Traceback (most recent call last):
+  File "/global/u1/m/mfornace/codon-comparisons/EnsembleDesign/EnsembleDesign.py", line 173, in <module>
+    main()
+    ~~~~^^
+  File "/global/u1/m/mfornace/codon-comparisons/EnsembleDesign/EnsembleDesign.py", line 168, in main
+    run_mrna_design(args)
+    ~~~~~~~~~~~~~~~^^^^^^
+  File "/global/u1/m/mfornace/codon-comparisons/EnsembleDesign/EnsembleDesign.py", line 138, in run_mrna_design
+    seq, efe = process_run_file(os.path.join(log_dir, run_file))
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/u1/m/mfornace/codon-comparisons/EnsembleDesign/EnsembleDesign.py", line 59, in process_run_file
+    seq = re.search(r'Final mRNA sequence: (.*)', lines[-1]).group(1)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+[2026-10-09T07:12:05.161] error: Detected 1 oom_kill event in StepId=59492398.batch. Some of the step tasks have been OOM Killed.

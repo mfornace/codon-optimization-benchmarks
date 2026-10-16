@@ -1,0 +1,1 @@
+CDSfold $FASTA_DIR/JPUB_021267.fasta

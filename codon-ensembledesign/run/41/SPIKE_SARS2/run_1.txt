@@ -1,0 +1,18 @@
+Iteration [ 1]: obj: -3216.5391
+Iteration [ 2]: obj: -3317.7334
+Iteration [ 3]: obj: -3422.6450
+Iteration [ 4]: obj: -3527.4876
+Iteration [ 5]: obj: -3629.8242
+Iteration [ 6]: obj: -3728.2584
+Iteration [ 7]: obj: -3821.5752
+Iteration [ 8]: obj: -3908.4073
+Iteration [ 9]: obj: -3985.2453
+Iteration [10]: obj: -4041.8257
+Iteration [11]: obj: -4074.7179
+Iteration [12]: obj: -4082.1312
+Iteration [13]: obj: -4086.2179
+Iteration [14]: obj: -4089.0604
+Iteration [15]: obj: -4091.0097
+Iteration [16]: obj: -4092.4642
+Iteration [17]: obj: -4093.5763
+Iteration [18]: obj: -4094.4511

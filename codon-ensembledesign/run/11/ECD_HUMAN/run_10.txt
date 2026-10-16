@@ -1,0 +1,32 @@
+Iteration [ 1]: obj: -1603.4010
+Iteration [ 2]: obj: -1666.1348
+Iteration [ 3]: obj: -1721.2341
+Iteration [ 4]: obj: -1775.6897
+Iteration [ 5]: obj: -1828.3578
+Iteration [ 6]: obj: -1878.5115
+Iteration [ 7]: obj: -1927.7399
+Iteration [ 8]: obj: -1971.4921
+Iteration [ 9]: obj: -2010.7294
+Iteration [10]: obj: -2039.4143
+Iteration [11]: obj: -2060.0367
+Iteration [12]: obj: -2064.6461
+Iteration [13]: obj: -2067.0617
+Iteration [14]: obj: -2068.7897
+Iteration [15]: obj: -2070.2264
+Iteration [16]: obj: -2071.1551
+Iteration [17]: obj: -2071.8375
+Iteration [18]: obj: -2072.4966
+Iteration [19]: obj: -2072.9399
+Iteration [20]: obj: -2073.3270
+Iteration [21]: obj: -2073.6978
+Iteration [22]: obj: -2073.9918
+Iteration [23]: obj: -2074.2180
+Iteration [24]: obj: -2074.4484
+Iteration [25]: obj: -2074.6906
+Iteration [26]: obj: -2074.8855
+Iteration [27]: obj: -2075.0397
+Iteration [28]: obj: -2075.1932
+Iteration [29]: obj: -2075.3079
+Iteration [30]: obj: -2075.3653
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Final mRNA sequence: AUGGAGGAGACCAUGAAGUUGGCUACGAUGGAGGACACGGUCGAGUAUUGUCUGUUCUUGAUCCCGGACGAGUCCCGGGACUCCGAUAAGCAUAAGGAGAUCUUGCAGAAGUACAUAGAACGAAUAAUCACUCGCUUCGCCCCGAUGUUGGUCCCCUACAUAUGGCAGAACCAACCCUUUAACCUGAAGUAUAAGCCAGGUAAAGGGGGGGUUCCUGCCCAUAUGUUUGGGGUGACCAAAUUCGGGGACAACAUCGAAGACGAGUGGUUUAUCGUCUAUGUAAUUAAGCAGAUCACCAAGGAGUUCCCGGAGCUCGUCGCGCGGAUCGAGGACAACGAUGGGGAGUUUCUCCUCAUCGAGGCAGCGGACUUCCUGCCUAAGUGGCUAGAUCCAGAGAACUCGACGAAUCGAGUUUUCUUCUGCCACGGUGAGCUGUGUAUAAUACCAGCGCCGCGGAAGUCGGGGGCGGAGUCGUGGUUGCCCACGACUCCGCCCACGAUUCCGCAGGCGCUGAAUAUUAUCACAGCUCACUCGGAGAAGAUUCUGGCGUCGGAGUCCAUCAGGGCCGCCGUGAACCGUAGGAUUCGAGGAUAUCCUGAGAAGAUUCAGGCCUCGCUCCACCGGGCCCAUUGCUUUCUCCCGGCCGGAAUCGUCGCCGUCCUGAAGCAGCGGCCACGGCUGGUGGCCGCUGCUGUCCAGGCGUUCUACUUGAGGGACCCCAUCGAUCUCCGGGCUUGUCGGGUCUUCAAGACCUUCCUUCCUGAGACACGGAUUAUGACUUCUGUGACAUUUACCAAGUGUCUUUAUGCCCAGCUCGUGCAGCAGCGGUUCGUGCCGGAUCGGCGGAGCGGCUAUAGGUUGCCGCCUCCGUCCGAUCCGCAGUACCGCGCGCACGAGCUGGGCAUGAAGCUUGCGCACGGGUUCGAGAUCCUGUGCAGCAAGUGUAGUCCUCACUUCAGCGACUGCAAGAAGUCGCUCGUGACGGCGUCGCCGUUAUGGGCGAGCUUCUUGGAGUCGCUGAAGAAGAAUGACUACUUCAAGGGGCUCAUCGAAGGCUCGGCUCAGUAUCGAGAGAGGCUGGAGAUGGCUGAGAACUAUUUCCAGCUCUCUGUCGAUUGGCCUGAGUCGAGCCUUGCGAUGAGCCCCGGUGAGGAGAUCCUCACCCUCCUUCAGACGAUCCCGUUCGAUAUCGAGGAUCUCAAGAAGGAGGCUGCCAACCUGCCUCCUGAAGAUGAUGACCAGUGGCUGGACCUCAGUCCAGACCAACUGGAUCAGCUUCUUCAGGAGGCGGUUGGCAAGAAGGAGUCAGAGUCCGUGUCUAAGGAAGAGAAGGAGCAGAAUUACGAUCUGACGGAGGUGUCGGAGUCUAUGAAGGCUUUCAUCAGCAAGGUCAGCACCCACAAGGGUGCUGAGCUGCCGAGAGAGCCUUCAGAGGCUCCGAUCACCUUCGAUGCAGAUUCGUUUCUGAACUAUUUUGACAAGAUCCUAGGUCCUCGUCCGAACGAGAGCGACUCGGAUGACCUCGACGACGAGGACUUCGAGUGCCUCGAUUCGGACGAUGACCUGGAUUUUGAGACCCACGAGCCCGGAGAGGAGGCGUCCCUCAAGGGAACCCUGGACAAUCUGAAGAGUUAUAUGGCUCAGAUGGAUCAGGAGCUGGCUCACACCUGUAUUUCGAAGUCGUUCACGACUCGAAAUCAGGUGGAGCCAGUCUCCCAGACCACUGACAAUAACUCGGACGAGGAGGAUUCCGGCACGGGAGAGAGCGUGAUGGCCCCGGUGGACGUGGACCUGAAUCUUGUCAGUAAUAUCCUCGAGUCCUACAGUUCACAGGCGGGCCUGGCGGGCCCGGCGUCGAAUCUUCUCCAGAGCAUGGGAGUCCAGCUGCCUGACAAUACCGACCAUCGUCCGACAUCGAAGCCAACUAAGAAU

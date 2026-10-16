@@ -1,0 +1,1 @@
+CDSfold $FASTA_DIR/ECD_HUMAN.fasta

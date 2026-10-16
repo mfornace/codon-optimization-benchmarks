@@ -1,0 +1,32 @@
+Iteration [ 1]: obj: -658.5802
+Iteration [ 2]: obj: -675.4717
+Iteration [ 3]: obj: -692.7246
+Iteration [ 4]: obj: -709.8431
+Iteration [ 5]: obj: -726.4746
+Iteration [ 6]: obj: -742.3037
+Iteration [ 7]: obj: -757.1550
+Iteration [ 8]: obj: -770.6525
+Iteration [ 9]: obj: -782.1805
+Iteration [10]: obj: -790.0361
+Iteration [11]: obj: -794.0574
+Iteration [12]: obj: -794.8156
+Iteration [13]: obj: -795.1655
+Iteration [14]: obj: -795.3537
+Iteration [15]: obj: -795.4943
+Iteration [16]: obj: -795.6021
+Iteration [17]: obj: -795.6828
+Iteration [18]: obj: -795.7417
+Iteration [19]: obj: -795.7998
+Iteration [20]: obj: -795.8595
+Iteration [21]: obj: -795.9207
+Iteration [22]: obj: -795.9492
+Iteration [23]: obj: -795.9751
+Iteration [24]: obj: -796.0016
+Iteration [25]: obj: -796.0289
+Iteration [26]: obj: -796.0569
+Iteration [27]: obj: -796.0829
+Iteration [28]: obj: -796.1029
+Iteration [29]: obj: -796.1169
+Iteration [30]: obj: -796.1292
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Final mRNA sequence: AUGCAGGCUGAGGGGAGGGGCACCGGGGGGAGCACUGGGGAUGCAGAUGGGCCCGGUGGCCCCGGCAUCCCCGAUGGCCCCGGCGGGAACGCCGGGGGCCCCGGGGAGGCCGGGGCCACCGGUGGGCGGGGCCCCCGGGGCGCGGGAGCGGCGCGGGCGUCCGGGCCAGGGGGCGGCGCGCCGCGCGGCCCCCAUGGGGGGGCGGCCUCCGGGCUGAACGGCUGUUGCCGGUGUGGAGCUCGAGGGCCGGAGUCCCGGCUCCUCGAGUUCUACCUGGCAAUGCCGUUCGCCACCCCCAUGGAGGCCGAGCUGGCGCGCCGCUCCCUGGCCCAGGACGCCCCGCCGCUCCCCGUCCCGGGGGUCCUGCUCAAGGAGUUCACUGUUUCAGGCAACAUACUGACUAUUCGGCUGACAGCUGCCGAUCAUCGGCAGCUGCAGCUGAGUAUCAGUAGUUGCCUGCAACAGUUGAGCUUGCUCAUGUGGAUCACCCAGUGCUUCCUCCCGGUGUUCCUCGCCCAGCCGCCCUCCGGGCAACGGAGG
